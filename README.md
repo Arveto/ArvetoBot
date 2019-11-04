@@ -5,7 +5,7 @@
 The official telegram bot for Arveto.io.
 
 [![Bot](https://img.shields.io/badge/Bot-ARVETOBOT-00aced.svg?style=flat-square&logo=telegram)](t.me/ArvetoBot)
-[![arveto.io](https://img.shields.io/badge/%F0%9F%8C%90-site-green)](https://arveto.io)
+[![arveto.io](https://img.shields.io/badge/%F0%9F%8C%90-site-green?style=flat-square)](https://arveto.io)
 
 </div>
 
