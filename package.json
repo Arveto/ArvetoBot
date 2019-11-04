@@ -1,0 +1,27 @@
+{
+  "name": "arveto-bot",
+  "version": "1.0.0",
+  "description": "the official Arveto's telegram bot",
+  "main": "app.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arveto/ArvetoBot.git"
+  },
+  "keywords": [
+    "arveto",
+    "telegrambot"
+  ],
+  "author": "the Arveto Team",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Arveto/ArvetoBot/issues"
+  },
+  "homepage": "https://github.com/Arveto/ArvetoBot#readme"
+}
